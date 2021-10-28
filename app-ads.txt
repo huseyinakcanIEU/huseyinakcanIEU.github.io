@@ -306,3 +306,5 @@ adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
 exchange.admazing.co, AM3, RESELLER
 meitu.com, 282, RESELLER
+google.com, pub-5322235676842459, RESELLER
+
